@@ -1,2 +1,2 @@
-# v2RayNG-Node
-v2RayNG节点
+从网上搜集的一些v2RayNG节点
+喜欢的话记得给一个Star!
